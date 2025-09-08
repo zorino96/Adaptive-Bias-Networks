@@ -22,7 +22,7 @@ Our main result shows a consistent improvement over a standard ResNet baseline w
     git clone https://github.com/YOUR_USERNAME/Adaptive-Bias-Networks.git
     cd Adaptive-Bias-Networks
     ```
-    *(Replace YOUR_USERNAME with your actual GitHub username)*
+    *(zorino96)*
 
 2.  **Install dependencies:**
     ```bash
